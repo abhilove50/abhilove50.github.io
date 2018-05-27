@@ -477,6 +477,9 @@ ul.person-info{
   font-family: 'Raleway', sans-serif;
   letter-spacing: 1px;
 }
+.person-info li #email{
+  padding: 25px 0;
+}
 
 .person-info li i{
   color: #333333;
