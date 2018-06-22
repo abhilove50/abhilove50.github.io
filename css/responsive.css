@@ -140,10 +140,8 @@
 
 @media (max-width: 800px){
   .bgimg{
-    background-image: url("../img/thegaminghistorybg2crop.jpg");
+    background-image: url("img/thegaminghistorybg2crop.jpg");
     background-position: center;
     background-size: cover;
   }
-
-
 }
